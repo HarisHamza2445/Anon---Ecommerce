@@ -1,3 +1,4 @@
 # Anon - An eCommerce Website
-![desktop](https://github.com/user-attachments/assets/f515651e-f510-4b17-82da-87c707c6a211)
+![Anon](https://github.com/user-attachments/assets/a04af6ee-02ec-4306-b502-59e4a1ec7203)
+
 
